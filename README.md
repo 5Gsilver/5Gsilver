@@ -21,10 +21,10 @@
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
     <div align= "center"> <a href=https://sm217330s.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://sm217330s.tistory.com/"> </a>
          <a href=mailto:naruoto43@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:naruoto43@gmail.com"> </a>
-          </div>  <br> 
+          </div>  <br><br/><br/><br/>
     <div align= "center">
     <img src="https://github-readme-stats.vercel.app/api?username=5Gsilver&show_icons=true&theme=radical" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Gsilver&layout=compact&theme=radical" /><br/><br/><br/> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5Gsilver&layout=compact&theme=radical" /> 
         </div> 
     </div>
 
