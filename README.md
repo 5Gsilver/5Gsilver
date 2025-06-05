@@ -1,6 +1,3 @@
-[![Welcome SVG](https://readme-typing-svg.demolab.com/?lines=Welcome)](https://git.io/typing-svg)
-
-
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
