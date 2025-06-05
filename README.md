@@ -22,6 +22,12 @@
     <div align= "center"> <a href=https://sm217330s.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://sm217330s.tistory.com/"> </a>
          <a href=mailto:naruoto43@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:naruoto43@gmail.com"> </a>
           </div>  <br> 
-    <div align= "center">  </div> 
+    <div align= "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&layout=compact&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/compact?username=your_username&show_icons=true&theme=radical" />
+        </div> 
     </div>
+
+
     
